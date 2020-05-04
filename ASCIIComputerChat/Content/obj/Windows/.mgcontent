@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/edgar/Documents/Visual Studio 2017/Projects/ASCIIComputerChat/ASCIIComputerChat/Content/Arial.spritefont</File>
+    <File>C:/Users/edgar/Documents/Visual Studio 2017/Projects/ASCIIComputerChat/ASCIIComputerChat/Content/computer.asciiart</File>
+    <File>C:/Users/edgar/Documents/Visual Studio 2017/Projects/ASCIIComputerChat/ASCIIComputerChat/Content/Consolas.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
