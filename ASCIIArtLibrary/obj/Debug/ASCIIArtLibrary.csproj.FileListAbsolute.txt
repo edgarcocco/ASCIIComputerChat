@@ -20,3 +20,4 @@ C:\Users\edgar\Documents\Visual Studio 2017\Projects\ASCIIComputerChat\ASCIIArtL
 C:\Users\edgar\Documents\Visual Studio 2017\Projects\ASCIIComputerChat\ASCIIArtLibrary\bin\Debug\SharpDX.Direct2D1.xml
 C:\Users\edgar\Documents\Visual Studio 2017\Projects\ASCIIComputerChat\ASCIIArtLibrary\bin\Debug\SharpDX.XInput.xml
 C:\Users\edgar\Documents\Visual Studio 2017\Projects\ASCIIComputerChat\ASCIIArtLibrary\obj\Debug\ASCIIArtLibrary.csproj.CopyComplete
+C:\Users\edgar\Documents\Visual Studio 2017\Projects\ASCIIComputerChat\ASCIIArtLibrary\obj\Debug\ASCIIArtLibrary.csprojAssemblyReference.cache
